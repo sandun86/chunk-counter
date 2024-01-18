@@ -1,0 +1,15 @@
+{
+  "name": "Chunk Counter",
+  "version": "1.0.0",
+  "description": "Chunk to the strings which given message",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandun Dissanayake",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "3.0.2"
+  }
+}
